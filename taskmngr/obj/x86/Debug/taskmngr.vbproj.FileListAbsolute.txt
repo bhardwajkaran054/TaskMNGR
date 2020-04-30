@@ -1,0 +1,48 @@
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\bin\Debug\taskmngr.exe
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\bin\Debug\taskmngr.pdb
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\bin\Debug\taskmngr.xml
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\obj\x86\Debug\taskmngr.Form1.resources
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\obj\x86\Debug\taskmngr.Resources.resources
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\obj\x86\Debug\taskmngr.vbproj.GenerateResource.Cache
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\obj\x86\Debug\taskmngr.exe
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\obj\x86\Debug\taskmngr.xml
+C:\Users\D3XT3R\AppData\Local\Temporary Projects\taskmngr\obj\x86\Debug\taskmngr.pdb
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.exe
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.xml
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.pdb
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.exe
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.pdb
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.xml
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.Form1.resources
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.Resources.resources
+E:\Games\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.vbproj.GenerateResource.Cache
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.exe
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.xml
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.pdb
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.exe
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.pdb
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.xml
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.Form1.resources
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.Resources.resources
+E:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.vbproj.GenerateResource.Cache
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.exe
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.xml
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.pdb
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.exe
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.pdb
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\bin\Debug\taskmngr.xml
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.Form1.resources
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.Resources.resources
+G:\My Projects\VB.net\VB.net Projects\taskmngr\taskmngr\obj\x86\Debug\taskmngr.vbproj.GenerateResource.Cache
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\obj\x86\Debug\taskmngr.exe
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\obj\x86\Debug\taskmngr.xml
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\obj\x86\Debug\taskmngr.pdb
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\bin\Debug\taskmngr.exe
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\bin\Debug\taskmngr.pdb
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\bin\Debug\taskmngr.xml
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\obj\x86\Debug\taskmngr.Form1.resources
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\obj\x86\Debug\taskmngr.Resources.resources
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\taskmngr\obj\x86\Debug\taskmngr.vbproj.GenerateResource.Cache
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\Raw File\taskmngr\obj\x86\Debug\taskmngr.exe
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\Raw File\taskmngr\obj\x86\Debug\taskmngr.xml
+C:\Users\bhard\Desktop\GithhubProject\taskmngr\Raw File\taskmngr\obj\x86\Debug\taskmngr.pdb
